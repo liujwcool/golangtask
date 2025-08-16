@@ -1,0 +1,9 @@
+{
+    "go.gopath": "/home/liujw/go",
+    "go.goroot": "/usr/local/go",
+    "go.useLanguageServer": true,
+    "go.toolsEnvVars": {
+        "GOPATH": "/home/liujw/go",
+        "GOROOT": "/usr/local/go"
+    }
+}
