@@ -5,5 +5,22 @@
     "go.toolsEnvVars": {
         "GOPATH": "/home/liujw/go",
         "GOROOT": "/usr/local/go"
-    }
+    },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "\"MySQL Local",
+            "database": "gorm",
+            "username": "root",
+            "password": "st123456",
+            "charset": "utf8mb4"
+        }
+    ]
 }
